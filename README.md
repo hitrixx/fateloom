@@ -7,4 +7,4 @@ to exec jar (after build of course)
 
 to compile 
 
-<code>gradlew shadowJar<code>
+<code>gradlew shadowJar</code>
